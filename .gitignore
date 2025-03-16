@@ -172,3 +172,17 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+#------------
+# Additional:
+#------------
+
+# Ignore all logs
+*.log
+logs/
+
+# Ignore all files and directories that start with Dev_and_deploy
+Dev_and_deploy*
+~$*.docx
+~$*.xlsx

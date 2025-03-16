@@ -1,0 +1,11 @@
+python==3.12.2
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scikit-optimize
+statsmodels
+xgboost
+jupyterlab
+ipykernel
